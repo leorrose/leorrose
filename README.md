@@ -10,24 +10,26 @@
 - 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.
 
 - 👨‍💻 my projects:
-   - Data Science Projects:
-     - 
-     -
-     -
-     -
-     -
-   - Web Projects:
-     - Calculator - repository https://github.com/leorrose/Calculator , Browser View https://leorrose.github.io/Calculator/
-     -
-     -
-     -
-     -
-   - Collage Projects:
-     -
-     -
-     -
-     -
-
+   - **Data Science Projects**:
+     - **Data-Classifier** - repository https://github.com/leorrose/Data-Classifier
+   - **Dynamic Web Projects**:
+     - **B7Fun** - repository https://github.com/leorrose/B7Fun
+     - **Collage-portal** - repository https://github.com/leorrose/Collage-portal
+   - **Static Web Projects**:
+     - **TIC TAC TOE** - repository https://github.com/leorrose/TIC-TAC-TOE.io , Browser View https://leorrose.github.io/TIC-TAC-TOE.io/
+     - **Calculator** - repository https://github.com/leorrose/Calculator , Browser View https://leorrose.github.io/Calculator/
+     - **To Do List** - repository https://github.com/leorrose/To-Do-List.io , Browser View https://leorrose.github.io/To-Do-List.io/
+     - **Drum Kit** - repository https://github.com/leorrose/Drum-Kit.io , Browser View https://leorrose.github.io/Drum-Kit.io/
+     - **ETCH A SKETCH** - repository https://github.com/leorrose/ETCH-A-SKETCH.io , Browser View https://leorrose.github.io/ETCH-A-SKETCH.io/
+     - **Tribute Page** - repository https://github.com/leorrose/Tribute-Page.io , Browser View https://leorrose.github.io/Tribute-Page.io/
+     - **Product Landing Page** - repository https://github.com/leorrose/Product-Landing-Page.io , Browser View https://leorrose.github.io/Product-Landing-Page.io/
+     - **Survey Form Template** - repository https://github.com/leorrose/Survey-Form-Template.io , Browser View https://leorrose.github.io/Survey-Form-Template.io/
+     - **Survey Form** - repository https://github.com/leorrose/Service-Survey.io , Browser View https://leorrose.github.io/Service-Survey.io/
+   - **Collage Projects**:
+     - **C-family-Compiler** - repository https://github.com/leorrose/C-family-Compiler
+     - **Reversi - repository** https://github.com/leorrose/Reversi
+     - **Game_Box_Project** - repository https://github.com/leorrose/Game_Box_Project
+     - **MineSweeper** - repository https://github.com/leorrose/MineSweeper
 - 💬 Ask me about **anything, don't be afraid i don't bite (if i don't know the answer ill help you search :blush: )**
 
 - ⚡ Fun fact **  **

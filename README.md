@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact ** I Love Dogs and Pizza **
 
-- 👨‍💻 <ins>my projects</ins>:
+- 👨‍💻 my projects:
    - <ins>Data Science Projects</ins>:
      - **Data-Classifier** - [Repository](https://github.com/leorrose/Data-Classifier) 
    - <ins>Dynamic Web Projects</ins>:

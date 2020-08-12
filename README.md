@@ -10,12 +10,12 @@
 - 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.
 
 - 👨‍💻 <ins>my projects</ins>:
-   - **Data Science Projects**:
+   - <ins>Data Science Projects</ins>:
      - **Data-Classifier** - [Repository](https://github.com/leorrose/Data-Classifier) 
-   - **Dynamic Web Projects**:
+   - <ins>Dynamic Web Projects</ins>:
      - **B7Fun** - [Repository](https://github.com/leorrose/B7Fun) 
-     - **Collage-portal** - [Repository](repository https://github.com/leorrose/Collage-portal)
-   - **Static Web Projects**:
+     - **Collage-portal** - [Repository](https://github.com/leorrose/Collage-portal)
+   - <ins>Static Web Projects</ins>:
      - **TIC TAC TOE** - [Repository](https://github.com/leorrose/TIC-TAC-TOE.io) , [Browser View](https://leorrose.github.io/TIC-TAC-TOE.io/)  
      - **Calculator** - [Repository](https://github.com/leorrose/Calculator) , [Browser View](https://leorrose.github.io/Calculator/)
      - **To Do List** - [Repository](https://github.com/leorrose/To-Do-List.io) , [Browser View](https://leorrose.github.io/To-Do-List.io/)
@@ -25,7 +25,7 @@
      - **Product Landing Page** - [Repository](https://github.com/leorrose/Product-Landing-Page.io) , [Browser View](https://leorrose.github.io/Product-Landing-Page.io/)
      - **Survey Form Template** - [Repository](https://github.com/leorrose/Survey-Form-Template.io) , [Browser View](https://leorrose.github.io/Survey-Form-Template.io/)
      - **Survey Form** - [Repository](https://github.com/leorrose/Service-Survey.io) , [Browser View](https://leorrose.github.io/Service-Survey.io/)
-   - **Collage Projects**:
+   - <ins>Collage Projects</ins>:
      - **C-family-Compiler** - [Repository](https://github.com/leorrose/C-family-Compiler)
      - **Reversi** - [Repository](https://github.com/leorrose/Reversi)
      - **Game_Box_Project** - [Repository](https://github.com/leorrose/Game_Box_Project)

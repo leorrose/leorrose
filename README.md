@@ -18,6 +18,7 @@
 - 👨‍💻 my projects:
    - <ins>Data Science Projects</ins>:
      - **Data-Classifier** - [Repository](https://github.com/leorrose/Data-Classifier) 
+     - **Image-classification-ZSL** - [Repository](https://github.com/leorrose/Image-classification-ZSL) 
    - <ins>Dynamic Web Projects</ins>:
      - **B7Fun** - [Repository](https://github.com/leorrose/B7Fun) 
      - **Collage-portal** - [Repository](https://github.com/leorrose/Collage-portal)

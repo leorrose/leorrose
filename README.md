@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything, don't be afraid i don't bite (if i don't know the answer ill help you search :blush: )**
 
-- ⚡ Fun fact ** I Love Dogs and Pizza **
+- ⚡ Fun fact **I Love Dogs and Pizza**
 
 - 👨‍💻 my projects:
    - <ins>Data Science Projects</ins>:

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leor</h1>
 <h3 align="center">A software engineering student from Israel <img src="https://komarev.com/ghpvc/?username=leorrose" alt="leorrose" /></h3>
 
-- 🔭 *I’m currently working on* **Data science projects :robot:** 
+- 🔭 *I’m currently working on* **my final collage project (Deep Learning) :robot:** 
 
-- 🌱 *I’m currently learning* **Deep learning models, Automation with Selenium, Full-stack development and more :dizzy_face:**
+- 🌱 *I’m currently learning* **Machine Learning concepts, Deep learning models, Automation with Selenium, Full-stack development and more :dizzy_face:**
 
-- 👯 *I’m looking to collaborate on* **Data science projects, web projects, framewoeks and more :sunglasses:**
+- 👯 *I’m looking to collaborate on* **Data science projects, web projects, frameworks and more :sunglasses:**
 
 - 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.
 

@@ -7,7 +7,7 @@
 
 - 👯 *I’m looking to collaborate on* **Data science projects, web projects, frameworks and more :sunglasses:**
 
-- 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.
+- 🤔 *Looking for help* with trying to find my first software engineering job in this current job climate.
 
 - 📫 How to reach me: Leor.rose@gmail.com
 

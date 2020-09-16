@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leor</h1>
 <h3 align="center">A software engineering student from Israel <img src="https://komarev.com/ghpvc/?username=leorrose" alt="leorrose" /></h3>
 
-- 🔭 *I’m currently working on* **my final collage project (Deep Learning) :robot:** 
+- 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning) :robot:** 
 
-- 🌱 *I’m currently learning* **Machine Learning concepts, Deep learning models, Automation with Selenium, Full-stack development and more :dizzy_face:**
+- 🌱 *I’m currently learning* **Machine learning concepts, Deep learning models, Automation with Selenium, Full-stack development and more :dizzy_face:**
 
 - 👯 *I’m looking to collaborate on* **Data science projects, web projects, frameworks and more :sunglasses:**
 
-- 🤔 *Looking for help* with trying to find my first software engineering job in this current job climate.
+- 🤔 *Looking for help* to find my first software engineering job in this current job climate.
 
 - 📫 How to reach me: Leor.rose@gmail.com
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 my projects:
    - <ins>Data Science Projects</ins>:
-     - **Data-Classifier** - [Repository](https://github.com/leorrose/Data-Classifier) 
+     - **Simple-machine-learning-classifier-tool** - [Repository](https://github.com/leorrose/Simple-machine-learning-classifier-tool) 
      - **Image-classification-ZSL** - [Repository](https://github.com/leorrose/Image-classification-ZSL) 
    - <ins>Dynamic Web Projects</ins>:
      - **B7Fun** - [Repository](https://github.com/leorrose/B7Fun) 
@@ -30,9 +30,8 @@
      - **ETCH A SKETCH** - [Repository](https://github.com/leorrose/ETCH-A-SKETCH.io) , [Browser View](https://leorrose.github.io/ETCH-A-SKETCH.io/)
      - **Tribute Page** - [Repository](https://github.com/leorrose/Tribute-Page.io) , [Browser View](https://leorrose.github.io/Tribute-Page.io/)
      - **Product Landing Page** - [Repository](https://github.com/leorrose/Product-Landing-Page.io) , [Browser View](https://leorrose.github.io/Product-Landing-Page.io/)
-     - **Survey Form Template** - [Repository](https://github.com/leorrose/Survey-Form-Template.io) , [Browser View](https://leorrose.github.io/Survey-Form-Template.io/)
      - **Survey Form** - [Repository](https://github.com/leorrose/Service-Survey.io) , [Browser View](https://leorrose.github.io/Service-Survey.io/)
-   - <ins>Collage Projects</ins>:
+   - <ins>Other Projects</ins>:
      - **C-family-Compiler** - [Repository](https://github.com/leorrose/C-family-Compiler)
      - **Reversi** - [Repository](https://github.com/leorrose/Reversi)
      - **Game_Box_Project** - [Repository](https://github.com/leorrose/Game_Box_Project)

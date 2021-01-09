@@ -38,13 +38,11 @@
      - **Game_Box_Project** - [Repository](https://github.com/leorrose/Game_Box_Project)
      - **MineSweeper** - [Repository](https://github.com/leorrose/MineSweeper) 
 
-</br>
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorrose&layout=compact&hide=html" alt="leorrose" />
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leorrose&show_icons=true" alt="leorrose" />
+</p>
 
-</br>
 
 <p align="center">
 <a href="https://linkedin.com/in/leorrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leorrose" height="30" width="30" /></a>

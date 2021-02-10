@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Leor</h1>
-<h3 align="center">A software engineering student from Israel <img src="https://komarev.com/ghpvc/?username=leorrose" alt="leorrose" /></h3>
+<h1 align="center">Hi 👋, I'm Leor Rose</h1>
+<h3 align="center">A data science intern from Israel</h3>
 
 - 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning) :robot:** 
 
-- 🌱 *I’m currently learning* **Machine learning concepts, Deep learning models, Automation with Selenium, Full-stack development and more :dizzy_face:**
+- 🌱 *I’m currently learning* **End to End Data science (ML, DL, Full Stack development and more)**
 
-- 👯 *I’m looking to collaborate on* **Data science projects, web projects, frameworks and more :sunglasses:**
-
-- 🤔 *Looking for help* to find my first software engineering job in this current job climate.
+- 👯 *I’m looking to collaborate on* **Data science projects**
 
 - 📫 How to reach me: Leor.rose@gmail.com
-
-- 💬 Ask me about **anything, don't be afraid i don't bite (if i don't know the answer ill help you search :blush: )**
-
-- ⚡ Fun fact **I Love Dogs and Pizza**
 
 - 👨‍💻 my projects:
    - <ins>Data Science Projects</ins>:

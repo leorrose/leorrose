@@ -20,18 +20,10 @@
      - **Simple-machine-learning-classifier-tool** - [Repository](https://github.com/leorrose/Simple-machine-learning-classifier-tool) 
      - **Image-classification-ZSL** - [Repository](https://github.com/leorrose/Image-classification-ZSL)
      - **AnimeRS** - [Repository](https://github.com/leorrose/AnimeRS)
-   - <ins>Dynamic Web Projects</ins>:
+   - <ins>Web Projects</ins>:
      - **B7Fun** - [Repository](https://github.com/leorrose/B7Fun) 
      - **Collage-portal** - [Repository](https://github.com/leorrose/Collage-portal)
-   - <ins>Static Web Projects</ins>:
-     - **TIC TAC TOE** - [Repository](https://github.com/leorrose/TIC-TAC-TOE.io) , [Browser View](https://leorrose.github.io/TIC-TAC-TOE.io/)  
-     - **Calculator** - [Repository](https://github.com/leorrose/Calculator) , [Browser View](https://leorrose.github.io/Calculator/)
-     - **To Do List** - [Repository](https://github.com/leorrose/To-Do-List.io) , [Browser View](https://leorrose.github.io/To-Do-List.io/)
-     - **Drum Kit** - [Repository](https://github.com/leorrose/Drum-Kit.io) , [Browser View](https://leorrose.github.io/Drum-Kit.io/)
-     - **ETCH A SKETCH** - [Repository](https://github.com/leorrose/ETCH-A-SKETCH.io) , [Browser View](https://leorrose.github.io/ETCH-A-SKETCH.io/)
-     - **Tribute Page** - [Repository](https://github.com/leorrose/Tribute-Page.io) , [Browser View](https://leorrose.github.io/Tribute-Page.io/)
-     - **Product Landing Page** - [Repository](https://github.com/leorrose/Product-Landing-Page.io) , [Browser View](https://leorrose.github.io/Product-Landing-Page.io/)
-     - **Survey Form** - [Repository](https://github.com/leorrose/Service-Survey.io) , [Browser View](https://leorrose.github.io/Service-Survey.io/)
+     - **Front-End-Development** - [Repository](https://github.com/leorrose/Front-End-Development)
    - <ins>Other Projects</ins>:
      - **C-family-Compiler** - [Repository](https://github.com/leorrose/C-family-Compiler)
      - **Reversi** - [Repository](https://github.com/leorrose/Reversi)

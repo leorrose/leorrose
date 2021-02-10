@@ -1,6 +1,18 @@
 <div>
-   <h3 align="center">Hi 👋, I'm Leor Rose</h3>
-   <p align="center"><b>A data science intern from Israel</b></p>
+   <h1 align="center">
+      Hi 👋, I'm Leor Rose 
+      </br>
+   </h1>
+</div>
+
+- 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning) :robot:** 
+
+- 🌱 *I’m currently learning* **End to End Data science (ML, DL, Full Stack development and more)**
+
+- 👯 *I’m looking to collaborate on* **Data science projects**
+
+
+<div>
    <p align="center">
       <a href="https://linkedin.com/in/leorrose" target="blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,11 +29,6 @@
    </p>
 </div>
 
-- 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning) :robot:** 
-
-- 🌱 *I’m currently learning* **End to End Data science (ML, DL, Full Stack development and more)**
-
-- 👯 *I’m looking to collaborate on* **Data science projects**
 
 ## 👨‍💻 My projects
 

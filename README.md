@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Leor Rose</h1>
-<h3 align="center">A data science intern from Israel</h3>
+<div>
+   <h3 align="center">Hi 👋, I'm Leor Rose</h3>
+   <p align="center"><b>A data science intern from Israel</b></p>
+   <p align="center">
+   <a href="https://linkedin.com/in/leorrose" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://fb.com/leor.rose" target="blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+   </a>
+   <a href="https://wa.me/+9720503992002" target="blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   </a>
+   <a href="mailto:leor.rose@gmail.com?subject=Hello%20Ileri,%20From%20Github" target="blank">
+      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+</p>
+</div>
+
+---
+
+## About
 
 - 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning) :robot:** 
 
@@ -7,31 +27,29 @@
 
 - 👯 *I’m looking to collaborate on* **Data science projects**
 
-- 📫 How to reach me: Leor.rose@gmail.com
-
-- 👨‍💻 my projects:
-   - <ins>Data Science Projects</ins>:
-     - **Simple-machine-learning-classifier-tool** - [Repository](https://github.com/leorrose/Simple-machine-learning-classifier-tool) 
-     - **Image-classification-ZSL** - [Repository](https://github.com/leorrose/Image-classification-ZSL)
-     - **AnimeRS** - [Repository](https://github.com/leorrose/AnimeRS)
-   - <ins>Web Projects</ins>:
-     - **B7Fun** - [Repository](https://github.com/leorrose/B7Fun) 
-     - **Collage-portal** - [Repository](https://github.com/leorrose/Collage-portal)
-     - **Front-End-Development** - [Repository](https://github.com/leorrose/Front-End-Development)
-   - <ins>Other Projects</ins>:
-     - **C-family-Compiler** - [Repository](https://github.com/leorrose/C-family-Compiler)
-     - **Reversi** - [Repository](https://github.com/leorrose/Reversi)
-     - **Game_Box_Project** - [Repository](https://github.com/leorrose/Game_Box_Project)
-     - **MineSweeper** - [Repository](https://github.com/leorrose/MineSweeper) 
-
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorrose&layout=compact&hide=html" alt="leorrose" />
 </p>
 
+## 👨‍💻 My projects
 
-<p align="center">
-<a href="https://linkedin.com/in/leorrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leorrose" height="30" width="30" /></a>
-<a href="https://fb.com/leor.rose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="leor rose" height="30" width="30" /></a>
-<a href="https://wa.me/+9720503992002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="leor_rose" height="30" width="30" /></a>
-</p>
+### Data Science Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Simple-machine-learning-classifier-tool)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Image-classification-ZSL)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=AnimeRS)](https://github.com/anuraghazra/github-readme-stats)
+### Web Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=B7Fun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Collage-portal)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Front-End-Development)](https://github.com/anuraghazra/github-readme-stats)
+### Other Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=C-family-Compiler)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Reversi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Game_Box_Project)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=MineSweeper)](https://github.com/anuraghazra/github-readme-stats)

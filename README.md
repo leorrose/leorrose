@@ -19,7 +19,7 @@
 ### Data Science Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Simple-machine-learning-classifier-tool)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Image-classification-ZSL)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Image-classification-zero-shot-learning)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=AnimeRS)](https://github.com/anuraghazra/github-readme-stats)
 ### Web Projects

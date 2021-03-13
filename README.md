@@ -7,7 +7,7 @@
 
 ## About
 
-- 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning) :robot:** 
+- 🔭 *I’m currently working on* **my final collage project in the subject of neural font style transfer (deep learning)
 
 - 🌱 *I’m currently learning* **End to End Data science (ML, DL, Full Stack development and more)**
 

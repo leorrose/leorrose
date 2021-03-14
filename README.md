@@ -17,25 +17,25 @@
 ## 👨‍💻 My projects
 
 ### Data Science Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Simple-machine-learning-classifier-tool)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Image-classification-zero-shot-learning)](https://github.com/leorrose/Image-classification-zero-shot-learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Image-classification-zero-shot-learning)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=AnimeRS)](https://github.com/leorrose/AnimeRS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=AnimeRS)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Simple-machine-learning-classifier-tool)](https://github.com/leorrose/Simple-machine-learning-classifier-tool)
 ### Web Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=B7Fun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=B7Fun)](https://github.com/leorrose/B7Fun)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=College-portal)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=College-portal)](https://github.com/leorrose/College-portal)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Front-End-Development)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Front-End-Development)](https://github.com/leorrose/Front-End-Development)
 ### Other Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=C-family-Compiler)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=C-family-Compiler)](https://github.com/leorrose/C-family-Compiler)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Reversi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Reversi)](https://github.com/leorrose/Reversi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Game_Box_Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Game_Box_Project)](https://github.com/leorrose/Game_Box_Project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=MineSweeper)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=MineSweeper)](https://github.com/leorrose/MineSweeper)
 
 ---
 

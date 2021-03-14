@@ -25,7 +25,7 @@
 ### Web Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=B7Fun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Collage-portal)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=College-portal)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leorrose&repo=Front-End-Development)](https://github.com/anuraghazra/github-readme-stats)
 ### Other Projects

@@ -1,9 +1,5 @@
-<div>
-   <h1 align="center">
-      Hi 👋, I'm Leor Rose 
-      </br>
-   </h1>
-</div>
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.png "Header")]
+
 
 ## About
 

@@ -7,7 +7,7 @@ I'm a **Software Engineer** with a passion for machine learning and data science
 - 🌱 I’m currently pursuing my masters degree in software and information systems engineering with a specialization in machine learning and big data analytics.
 - 🔭 I’m currently working on a few machine learning projects.
 - 👯 I’m looking to collaborate on interesting projects, preferably machine learning or data science projects.
-- 😅 Fun fact, i love playing computer games especially Apex Legends.
+- 😅 Fun fact: I like playing computer games especially, Apex Legends.
 
 ---
 

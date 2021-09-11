@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.png "Header")]
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.png "Header")
 
 
 ## About

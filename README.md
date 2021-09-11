@@ -2,7 +2,7 @@
 
 Hi, I'm Leor 👋
 
-I'm a Software Engineer with a passion for machine learning and data science.
+I'm a software engineer with a passion for machine learning and data science.
 
 - 🌱 I’m currently pursuing my masters degree in software and information systems engineering with a specialization in machine learning and big data analytics.
 - 🔭 I’m currently working on a few machine learning projects.

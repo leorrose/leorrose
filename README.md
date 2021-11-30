@@ -1,11 +1,13 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
-Hi, I'm Leor 👋
+Hi, I'm **Leor** 👋
 
-I'm a Data Scientist and very passionte about Machine Learning and Data Science.
+I'm a **Data Scientist** and very passionate about Machine Learning and Data Science.
 
 - 🎓 **Education:** I have a bachelor degree in Software Engineering and I’m currently pursuing my masters degree in software and information systems engineering with a specialization in machine learning and big data analytics.
-- 🔨 **Current Work**: I’m currently working on applying data scince in cell bioligy.
+
+- 🔨 **Current Work**: I’m currently working on applying data science in cell biology.
+
 - 😅 **Fun fact:** I like playing computer games, especially Apex Legends.
 
 ---

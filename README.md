@@ -2,12 +2,11 @@
 
 Hi, I'm Leor 👋
 
-I'm a software engineer with a passion for machine learning and data science.
+I'm a Data Scientist and very passionte about Machine Learning and Data Science.
 
-- 🌱 I’m currently pursuing my masters degree in software and information systems engineering with a specialization in machine learning and big data analytics.
-- 🔭 I’m currently working on a few machine learning projects.
-- 👯 I’m looking to collaborate on interesting projects, preferably machine learning or data science projects.
-- 😅 Fun fact: I like playing computer games, especially Apex Legends.
+- 🎓 **Education:** I have a bachelor degree in Software Engineering and I’m currently pursuing my masters degree in software and information systems engineering with a specialization in machine learning and big data analytics.
+- 🔨 **Current Work**: I’m currently working on applying data scince in cell bioligy.
+- 😅 **Fun fact:** I like playing computer games, especially Apex Legends.
 
 ---
 
